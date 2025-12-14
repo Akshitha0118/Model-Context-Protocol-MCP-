@@ -1,0 +1,2 @@
+multiply 2 number 4 and 5 is 20
+divide 2 number 10 and 5 is 2

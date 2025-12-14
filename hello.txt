@@ -1,0 +1,4 @@
+add two number is 2 & 3 is 5 
+substract 2 number 2 & 3 is -1
+multiply 2 &3 is 6
+divide 2 number 10&5 is 2
